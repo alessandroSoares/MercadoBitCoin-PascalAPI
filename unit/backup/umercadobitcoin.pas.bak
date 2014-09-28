@@ -17,7 +17,6 @@ type
   TStatusOrderList = ( solActive, solCanceled, solCompleted );
   TPair = ( pBtc_Brl, pLtc_Brl );
 
-
   TBaseTradeAPi= class
     private
       FSuccess:Boolean;
